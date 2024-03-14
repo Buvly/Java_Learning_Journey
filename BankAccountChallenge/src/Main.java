@@ -4,8 +4,8 @@ public class Main {
         acc1.setCustName("Buvly");
         acc1.setAccNumber(1);
         acc1.setAccBalance(1000);
-        acc1.setCustEmail("bolla@gmail.com");
-        acc1.setCustPhoneNum("+201551707087");
+        acc1.setCustEmail("unkown@unkown.com");
+        acc1.setCustPhoneNum("0123456789");
 
         System.out.println("Welcome: " + acc1.getCustName());
         System.out.println("Your account number is: " + acc1.getAccNumber());
