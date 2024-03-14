@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankAccountChallenge/BankAccountChallenge.iml" filepath="$PROJECT_DIR$/BankAccountChallenge/BankAccountChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carpet Cost Calculator/Carpet Cost Calculator.iml" filepath="$PROJECT_DIR$/Carpet Cost Calculator/Carpet Cost Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complex Operations/Complex Operations.iml" filepath="$PROJECT_DIR$/Complex Operations/Complex Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer Challenge/Customer Challenge.iml" filepath="$PROJECT_DIR$/Customer Challenge/Customer Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputCalculator/InputCalculator.iml" filepath="$PROJECT_DIR$/InputCalculator/InputCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Lang Object/Java Lang Object.iml" filepath="$PROJECT_DIR$/Java Lang Object/Java Lang Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Learning_Journey.iml" filepath="$PROJECT_DIR$/.idea/Java_Learning_Journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxChallenge/MinMaxChallenge.iml" filepath="$PROJECT_DIR$/MinMaxChallenge/MinMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaintJob/PaintJob.iml" filepath="$PROJECT_DIR$/PaintJob/PaintJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonExercise/PersonExercise.iml" filepath="$PROJECT_DIR$/PersonExercise/PersonExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointExercise/PointExercise.iml" filepath="$PROJECT_DIR$/PointExercise/PointExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalculatorChallenge/SimpleCalculatorChallenge.iml" filepath="$PROJECT_DIR$/SimpleCalculatorChallenge/SimpleCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WallAreaExercise/WallAreaExercise.iml" filepath="$PROJECT_DIR$/WallAreaExercise/WallAreaExercise.iml" />
+    </modules>
+  </component>
+</project>
