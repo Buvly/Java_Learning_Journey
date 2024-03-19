@@ -24,7 +24,6 @@ public class Worker {
         this.endDate = endDate;
     }
 
-    @Override
     public String toString() {
         return "Worker{" +
                 "name='" + name + '\'' +
