@@ -10,7 +10,7 @@ public class Car {
     }
 
     public void drive() {
-        System.out.println("Driving Mode...");
+        System.out.println("Car -> driving, type is " + getClass().getSimpleName());
     }
 
     protected void runEngine() {
