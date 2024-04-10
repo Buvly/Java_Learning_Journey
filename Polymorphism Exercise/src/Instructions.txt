@@ -70,4 +70,4 @@ Notes:
 
 Remember that your Main class is not included in the code evaluation.
 
-You should paste the code from each of your classes into the respective class file in the code evaluator.
+You should paste the code from each of your classes into the respective class file in the code evaluator
